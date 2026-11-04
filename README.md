@@ -22,6 +22,6 @@
 
 📫 **Let's Connect!**
 - 📧 Email: ahmadkhan.datascientist@gmail.com
-- 💼 LinkedIn: (will add soon)
+- 💼 LinkedIn: www.linkedin.com/in/ahmadkhan-datascientist
 
 ⭐️ *From Peshawar with curiosity for data!*
