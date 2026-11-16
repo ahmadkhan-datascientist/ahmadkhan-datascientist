@@ -2,7 +2,7 @@
 
 **Data Science Graduate | Machine Learning | Deep Learning | Python | Data Analytics**
 
-📍 Pakistan
+📍 Peshawar, Pakistan
 
 ---
 
