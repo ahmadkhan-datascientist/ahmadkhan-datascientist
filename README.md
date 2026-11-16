@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Khan 👋
 
-**Data Science Graduate | Machine Learning | Deep Learning | Python**
+**Data Science Graduate | Machine Learning | Deep Learning | Python | Data Analytics**
 
 📍 Pakistan
 
